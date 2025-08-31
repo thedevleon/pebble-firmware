@@ -58,6 +58,9 @@ analyze_mcu_flash_usage_treemap.jsonp
 .venv
 *.egg-info
 
+# Generated simulator images
+pebble_colors_*.png
+
 waflib.zip
 *~
 
